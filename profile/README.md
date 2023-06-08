@@ -1,3 +1,4 @@
+![Lona Banner](https://github.com/LonaDB/.github/blob/main/profile/20230607_233027.jpg?raw=true)
 # What is LonaDB
 LonaDB is a early prototype of a Database written in JavaScript. <br>
 It uses JSON to store everything and supports different users.
