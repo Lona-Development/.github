@@ -5,12 +5,12 @@ It uses AES-Encrypted JSONs to store data, supports different users and comes wi
 <br>
 <br>
 # How does it work?
-The LonaDB main server is Hadro. <br>
+The LonaDB main server is [Hadro.](https://github.com/LonaDB/Hadro) <br>
 Hadro uses a TCP socket for communication with the clients. The requests sent by the clients are stringified JSONs, which are parsed. These contain all needed informations for Hadro to answer and, for example, create a user.
 <br>
 <br>
 # Is there a Web-Interface?
-Yes! We present... Kudo! <br>
+Yes! We present... [Kudo!](https://github.com/LonaDB/Kudo) <br>
 Kudo is a express.js server that utilizes express-handlebars to provide you with everything you need.
 Currently, Kudo is our youngest prototype and is not finished... Yet!
 <br>
