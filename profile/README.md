@@ -2,7 +2,7 @@
 
 # 💙 What is LonaDB?
 
-**LonaDB** is a cutting-edge, AES-encrypted JSON database written in JavaScript. It supports multi-user environments, offers a robust permissions system, and includes a flexible plugin system for customizing and extending its features.
+**LonaDB** is a cutting-edge, AES-encrypted JSON database written in PHP. It supports multi-user environments, offers a robust permissions system, and includes a flexible plugin system for customizing and extending its features.
 
 ---
 
@@ -20,7 +20,7 @@ LonaDB’s **plugin system** allows you to enhance its functionality with custom
 
 ## 🎉 Get Started
 
-Ready to dive in? Follow our [installation guide](https://docs.lona-development.org/guide/install.html) and explore [client libraries](https://docs.lona-development.org/guide/clients.html) to get started!
+Ready to dive in? Follow our [installation guide](https://docs.lona-development.org/guide/install.html) and explore our [client libraries](https://docs.lona-development.org/guide/clients.html) to get started!
 
 ---
 
